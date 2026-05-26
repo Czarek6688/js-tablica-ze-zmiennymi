@@ -4,6 +4,6 @@ let number2 = 20;
 
 let number3 = 30;
 
-let numbers = [10, 20, 30];
+let numbers = [number1, number2, number3];
 
 console.log(numbers);
